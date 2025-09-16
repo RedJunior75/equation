@@ -83,7 +83,7 @@ html = """
 <html lang="fr" translate="no">
 <head>
 <meta charset="UTF-8">
-<title>Résolution Équation Quartique</title>
+<title>Résolution Équation Bicarrée</title>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
@@ -129,7 +129,7 @@ html = """
 </head>
 <body>
 <div class="container">
-<h2>Résolution de l'équation</h2>
+<h2>Résolution de l'équation bicarrée</h2>
 """
 
 for e in etapes:
