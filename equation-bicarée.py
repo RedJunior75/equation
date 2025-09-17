@@ -80,7 +80,7 @@ def ecrire_fichier(texte):
 
 html = """
 <!DOCTYPE html>
-<html lang="fr" translate="no">
+<html lang="fr">
 <head>
 <meta charset="UTF-8">
 <title>Résolution Équation Bicarrée</title>
